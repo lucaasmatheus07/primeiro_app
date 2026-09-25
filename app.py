@@ -175,3 +175,4 @@ if st.button("🏁 CALCULAR (VAI CORINTHIANS!)", use_container_width=True):
 
         st.success("⚽ Golaço! Cálculo realizado com sucesso.")
         st.metric(label="Resultado Final:", value=f"{resultado:,.2f}")
+        #feito
